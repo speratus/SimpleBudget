@@ -1,2 +1,3 @@
 /venv/
 SimpleBudget/SimpleBudget/budgets/migrations/
+SimpleBudget/db.sqlite3
