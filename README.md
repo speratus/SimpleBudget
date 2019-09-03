@@ -3,6 +3,7 @@ SimpleBudget is a budgeting site built on [Django](https://www.djangoproject.com
 also uses the [Django Rest Framework](https://www.django-rest-framework.org) for the API. Currently, it is under 
 development. There is no guarantee that it will work as expected.
 
+The front end is currently under development, and is not, at the moment, present in this repository.
 ## Installation
 First, clone the repository:
 ```
